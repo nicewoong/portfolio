@@ -18,14 +18,15 @@
 
 ### 프로젝트 
 
-1. PyTextGotcha (Python/OpenCV)
-2. PLEET (Android/iOS)
-3. Dust Wave (Android)
-4. Like Robbins (Ruby on Rails)
-5. Never Never Die (Android)
+1. [PyTextGotcha (Python/OpenCV)](https://github.com/nicewoong/portfolio/blob/master/introductions/project_pyTextGotcha.md)
+2. [PLEET (Android/iOS)](https://github.com/nicewoong/portfolio/blob/master/introductions/project_pleet.md)
+3. [Dust Wave (Android)](https://github.com/nicewoong/portfolio/blob/master/introductions/project_dustWave.md)
+4. [Like Robbins (Ruby on Rails)](https://github.com/nicewoong/portfolio/blob/master/introductions/project_likeRobbins.md)
+5. [Never Never Die (Android)](https://github.com/nicewoong/portfolio/blob/master/introductions/project_neverNeverDie.md)
 
 ### 활동
 
+#### [Go to Activities (클릭)](https://github.com/nicewoong/portfolio/blob/master/introductions/activities.md)
 1. Shelled Nuts (스타트업)
 2. LIKE LION (동아리)
 3. Django Girls (비영리단체 운영진)
