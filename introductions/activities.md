@@ -1,8 +1,17 @@
 # ACTIVITIES
 
+
+
+
+<br><br><br><br>
+
+
+
+
+
 ## 활동 1) shelled nuts (쉘넛)
 
-<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_shellednuts.png" alt="activity_shellednuts"/>
+<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_shellednuts.png" alt="activity_shellednuts" style="width:400px" />
 
 ### 소개
 
@@ -26,10 +35,15 @@
 
 
 
+<br><br><br><br>
+
+
+
+
 
 ## 활동 2) LIKE LION (멋쟁이 사자처럼)
 
-<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_likerobbins.png" alt="activity_likerobbins"/>
+<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_likerobbins.png" alt="activity_likerobbins" style="width:400px" />
 
 
 ### 소개
@@ -47,9 +61,16 @@
 
 
 
+
+<br><br><br><br>
+
+
+
+
+
 ## 활동 3) Django girls daegu (장고걸스 대구)
 
-<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_django.png" alt="activity_django"/>
+<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_django.png" alt="activity_django" style="width:400px" />
 
 ### 소개
 
@@ -69,9 +90,15 @@
 
 
 
+<br><br><br><br>
+
+
+
+
+
 ## 활동 4) 프로그래밍 교과목 수업 도우미
 
-<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_tutor.png" alt="activity_tutor"/>
+<img src="https://github.com/nicewoong/portfolio/blob/master/images/activity_tutor.png" alt="activity_tutor" style="width:400px" />
 
 
 ### 소개
