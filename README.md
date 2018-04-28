@@ -1,7 +1,7 @@
 # portfolio
 
 
-<img src="https://github.com/nicewoong/portfolio/blob/master/images/HAN_Visa.jpeg" alt="wjhan" style="width:400px" />
+<img src="https://github.com/nicewoong/portfolio/blob/master/images/HAN_Visa.png" alt="wjhan" style="width:400px" />
 
 
 ## 한웅제 (Han Woongje)
