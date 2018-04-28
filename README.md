@@ -6,15 +6,11 @@
 
 ## 한웅제 (Han Woongje)
 
+### Contact 
 
-### 이메일
-* thoughtscode@gmail.com
-
-### GitHub 주소
-* https://github.com/nicewoong
-
-### 블로그
-* https://nicewoong.github.io
+* 이메일 : thoughtscode@gmail.com
+* GitHub 주소 : https://github.com/nicewoong
+* 블로그 : https://nicewoong.github.io
 
 ### 프로젝트 
 
